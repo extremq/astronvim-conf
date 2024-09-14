@@ -16,6 +16,10 @@ return {
         -- Normal = { bg = "#000000" },
       },
       astrodark = { -- a table of overrides/changes when applying the astrotheme theme
+        TodoBgNOTE = {
+          fg = "#1A1D23",
+          bg = "#00B298",
+        },
         -- Normal = { bg = "#000000" },
       },
     },
