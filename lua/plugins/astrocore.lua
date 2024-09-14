@@ -66,7 +66,7 @@ return {
         -- ["<C-S>"] = false,
       },
       t = {
-        ["<Esc><Esc>"] = { "<C-\\><C-n>", desc = "Enter Normal Mode in Terminal" },
+        ["<C-x>"] = { "<C-\\><C-n>", desc = "Enter Normal Mode in Terminal" },
       },
     },
   },
